@@ -45,5 +45,3 @@ A powerful and user-friendly food delivery application designed to connect custo
 ```bash
 git clone https://github.com/Swathi-sandy/Swathi-sandy
 
-
-<!---
