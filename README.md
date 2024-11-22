@@ -43,10 +43,7 @@ A powerful and user-friendly food delivery application designed to connect custo
 
 ### Clone the repository:
 ```bash
-git clone https://github.com/
+git clone https://github.com/Swathi-sandy/Swathi-sandy
 
 
 <!---
-Swathi-sandy/Swathi-sandy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
