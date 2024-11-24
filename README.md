@@ -38,6 +38,11 @@ A powerful and user-friendly food delivery application designed to connect custo
 ## 📱 Tech Stack
 
 - **programming :** Kotlan and XML
+ 
+## deployment 
+- --> unzip
+- --> Open in Android studio
+- --> run in Emulator 
 
 ## 💻 Installation
 
