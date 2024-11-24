@@ -42,7 +42,7 @@ A powerful and user-friendly food delivery application designed to connect custo
 ## deployment 
 - --> unzip
 - --> Open in Android studio
-- --> run in Emulator 
+- --> run in Emulators 
 
 ## 💻 Installation
 
