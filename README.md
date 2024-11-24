@@ -40,10 +40,10 @@ A powerful and user-friendly food delivery application designed to connect custo
 - **programming :** Kotlan and XML
  
 ## deployment 
-- --> unzip
+- --> unzip the food delivery file
 - --> Open in Android studio
-- --> run in Emulators 
-
+- --> run in Emulators
+- 
 ## 💻 Installation
 
 ### Clone the repository:
