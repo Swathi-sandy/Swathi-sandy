@@ -43,7 +43,7 @@ A powerful and user-friendly food delivery application designed to connect custo
 - --> unzip the food delivery file
 - --> Open in Android studio
 - --> run in Emulators
-- 
+
 ## 💻 Installation
 
 ### Clone the repository:
